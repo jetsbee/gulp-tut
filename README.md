@@ -68,3 +68,8 @@ $ yarn add gulp-webserver del gulp-pug -D
 ```
 $ yarn add gulp-image -D 
 ```
+
+## Add dependencies for sass(scss)
+```
+yarn add node-sass gulp-sass gulp-autoprefixer gulp-csso -D
+```
