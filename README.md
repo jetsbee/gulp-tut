@@ -58,3 +58,8 @@ $ touch gulpfile.babel.js
     "deploy": "gulp deploy"
   }
 ```
+
+## Add dependencies for webserver, clean tool, pug (client template engine)
+```
+$ yarn add gulp-webserver del gulp-pug -D
+```
