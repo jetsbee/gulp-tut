@@ -1,4 +1,5 @@
 # glup tutorial
+- ref. https://github.com/nomadcoders/super-gulp
 
 ## Requirements (MacOS)
 - A 64-bit Intel CPU 1
