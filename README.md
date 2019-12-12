@@ -78,3 +78,8 @@ $ yarn add node-sass gulp-sass gulp-autoprefixer gulp-csso -D
 ```
 $ yarn add gulp-bro babelify uglifyify -D
 ```
+
+## Add dependencies for github page deployment
+```
+$ yarn add gulp-gh-pages -D
+```
