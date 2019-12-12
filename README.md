@@ -1,10 +1,10 @@
 # glup tutorial
 
-## MacOS Requirements
+## Requirements (MacOS)
 - A 64-bit Intel CPU 1
 - macOS High Sierra (10.13) (or higher)
 
-## Setup dev env (on MacOS)
+## Setup dev env (MacOS)
 - Install Command Line Tools (CLT) for Xcode
 ```
 $ xcode-select --install
@@ -29,7 +29,7 @@ $ yarn init
 
 ## Add dependencies
 ```
-$ yarn add gulp-cli gulp @babel/{core,register,preset-env}
+$ yarn add gulp-cli gulp @babel/{core,register,preset-env} -D
 ```
 
 ## Make babelrc file
