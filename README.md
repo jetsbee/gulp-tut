@@ -71,5 +71,10 @@ $ yarn add gulp-image -D
 
 ## Add dependencies for sass(scss)
 ```
-yarn add node-sass gulp-sass gulp-autoprefixer gulp-csso -D
+$ yarn add node-sass gulp-sass gulp-autoprefixer gulp-csso -D
+```
+
+## Add dependencies for javascript
+```
+$ yarn add gulp-bro babelify uglifyify -D
 ```
