@@ -26,3 +26,33 @@ $ brew install yarn
 ```
 $ yarn init
 ```
+
+## Add dependencies
+```
+$ yarn add gulp-cli gulp @babel/{core,register,preset-env}
+```
+
+## Make babelrc file
+```
+$ touch .babelrc
+```
+### .babelrc
+```
+{
+  "presets": ["@babel/preset-env"]
+}
+```
+
+## Make gulpfile
+```
+$ touch gulpfile.babel.js
+```
+
+## Add scripts to package.json
+```
+"scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build",
+    "deploy": "gulp deploy"
+  }
+```
