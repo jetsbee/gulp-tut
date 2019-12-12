@@ -1,5 +1,6 @@
 # glup tutorial
 - ref. https://github.com/nomadcoders/super-gulp
+- ref. https://meyerweb.com/eric/tools/css/reset/
 
 ## Requirements (MacOS)
 - A 64-bit Intel CPU 1
