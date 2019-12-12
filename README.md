@@ -21,3 +21,8 @@ $ brew install node
 ```
 $ brew install yarn
 ```
+
+## Init node project
+```
+$ yarn init
+```

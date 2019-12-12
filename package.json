@@ -1,0 +1,7 @@
+{
+  "name": "gulp-tut",
+  "version": "1.0.0",
+  "repository": "https://github.com/jetsbee/gulp-tut.git",
+  "author": "Jaeseob Hwang <jetsbee@gmail.com>",
+  "license": "MIT"
+}
