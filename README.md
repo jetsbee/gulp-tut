@@ -63,3 +63,8 @@ $ touch gulpfile.babel.js
 ```
 $ yarn add gulp-webserver del gulp-pug -D
 ```
+
+## Add dependencies for image
+```
+$ yarn add gulp-image -D 
+```
